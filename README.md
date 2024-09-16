@@ -1,5 +1,5 @@
 Hi, My name is Androsh7
 
-My interests include studying malware and pen testing various applications.
+My coding projects primarily focus on creating, disecting, and analyzing malicious code.
 
-I code primarily in C++, but also powershell, bash, and python
+I code primarily in C++, but also write in powershell, bash, and python

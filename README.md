@@ -1,3 +1,5 @@
 Hi, My name is Androsh7
 
-I primarily code in C++ and do a bit of python, powershell, and bash
+My interests include studying malware and pen testing various applications.
+
+I code primarily in C++, but also powershell, bash, and python

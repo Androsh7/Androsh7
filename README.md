@@ -21,36 +21,6 @@
   <img src="https://img.shields.io/badge/Code-PowerShell-5391FE?logo=powershell&logoColor=white" />
 </p>
 
----
-
-## ⌨️ Bio
-
-Developer and security researcher creating scalable tooling, obfuscation methods, and mission-focused systems. Specialized in SATCOM, malware analysis, and cyber defense.
----
-
-## ⚡ Projects
-
-- 🔗 **[Tunnel over Anything (ToA)](https://github.com/androsh7/tunnel_over_anything)**  
-  Experimental traffic-obfuscation framework that encodes TCP/UDP inside DNS/HTTP/ICMP.  
-  `Focus:` Python networking · protocol obfuscation · red/blue research  
-  ─────────────────────────────────────────────────────────
-
-- 🛠️ **[Windows Toolkit](https://github.com/androsh7/windows_toolkit)**  
-  Local PowerShell web UI for rapid incident response and admin workflows.  
-  `Focus:` Endpoint tooling · automation · incident response workflows  
-  ─────────────────────────────────────────────────────────
-
-- 🌍 **[Automated Threat Feed](https://github.com/androsh7/threat_feed)**  
-  Pipeline that collects, normalizes, and summarizes security intel into actionable reports.  
-  `Focus:` Threat intel · AI · automation (Python)  
-  ─────────────────────────────────────────────────────────
-
-- 🎮 **[Bootcamp the Game](https://github.com/androsh7/bootcamp_the_game)**  
-  Terminal-based C++ simulator with a custom rendering engine.  
-  `Focus:` Systems programming · performance · creative tooling
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=androsh7&show_icons=true&theme=radical&title_color=39ff14&text_color=00ff00&icon_color=39ff14&bg_color=0d1117" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=androsh7&layout=compact&theme=radical&title_color=39ff14&text_color=00ff00&bg_color=0d1117" width="48%" alt="Top Languages" />

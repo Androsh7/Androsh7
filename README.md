@@ -1,14 +1,9 @@
-<!-- Hacker Aesthetic Profile README -->
-
 <h1 align="center">
   <span style="color:#39ff14;">Androsh7</span>
 </h1>
 
 <p align="center">
   <b><i>Cybersecurity • SATCOM Systems • Malware Research</i></b><br>
-  
-  <!-- Core tech badges -->
-  <img src="https://img.shields.io/badge/Linux-39ff14?logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />

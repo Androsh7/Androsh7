@@ -1,8 +1,10 @@
+<h1 align="center" style="color:#39ff14;">Androsh7</h1>
+
+<h3 align="center">
+  <i>Cybersecurity Developer and Researcher</i>
+</h3>
+
 <p align="center">
-  <h2 style="color:#39ff14;">
-    <b><i>Cybersecurity Developer and Researcher</i></b>
-  </h2>
-  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />

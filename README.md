@@ -23,12 +23,12 @@
 
 ---
 
-## ⚡ Snapshot
+## ⌨️ Bio
 
 Developer and security researcher creating scalable tooling, obfuscation methods, and mission-focused systems. Specialized in SATCOM, malware analysis, and cyber defense.
 ---
 
-## ⚡ Projects (portfolio highlights)
+## ⚡ Projects
 
 - 🔗 **[Tunnel over Anything (ToA)](https://github.com/androsh7/tunnel_over_anything)**  
   Experimental traffic-obfuscation framework that encodes TCP/UDP inside DNS/HTTP/ICMP.  
@@ -48,3 +48,14 @@ Developer and security researcher creating scalable tooling, obfuscation methods
 - 🎮 **[Bootcamp the Game](https://github.com/androsh7/bootcamp_the_game)**  
   Terminal-based C++ simulator with a custom rendering engine.  
   `Focus:` Systems programming · performance · creative tooling
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=androsh7&show_icons=true&theme=radical&title_color=39ff14&text_color=00ff00&icon_color=39ff14&bg_color=0d1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=androsh7&layout=compact&theme=radical&title_color=39ff14&text_color=00ff00&bg_color=0d1117" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=androsh7&theme=radical&ring=39ff14&fire=39ff14&background=0d1117" alt="Streak" />
+</p>

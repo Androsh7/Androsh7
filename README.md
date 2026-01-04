@@ -1,3 +1,3 @@
 <h1 align="center">
-  <i>Cybersecurity Developer and Researcher</i>
+  <i>I code stuff</i>
 </h1>

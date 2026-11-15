@@ -11,3 +11,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 </div>
+
+Other cool stuff:
+- [Claude Skills](https://github.com/androsh7/CLAUDE.md)
+- [Python template repo](https://github.com/androsh7/python_template)
